@@ -1,0 +1,12 @@
+﻿<Window x:Class="PipeNetManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="丽水城南水阁区块排水管网健康查询系统" Height="700" Width="1080"  WindowStartupLocation="CenterScreen">
+    <Grid Name="Grid1">
+        <TextBlock Height="38" HorizontalAlignment="Left" Margin="10,10,0,0" Name="textBlock1" Text="丽水城南水阁区块排水管网健康查询系统" 
+                   VerticalAlignment="Top" Width="1063" FontSize="30"/>
+        <StackPanel Name="stackpanl"  HorizontalAlignment="Center" VerticalAlignment="Center">
+
+        </StackPanel>
+    </Grid>
+</Window>
